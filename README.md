@@ -1,6 +1,5 @@
 ---
 title: This is title for part 2 tutorial page
-layout: default
 ---
 
 # {{ page.title }}
