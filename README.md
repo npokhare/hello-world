@@ -1,3 +1,10 @@
+---
+title: This is title for part 2 tutorial page
+layout: default
+---
+
+# {{ page.title }}
+
 {% for components in site.data.components %}
 {% assign headercomponent = components[1] %}
 ## {{ headercomponent.title }}
