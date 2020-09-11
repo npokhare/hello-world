@@ -17,6 +17,9 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+{% for member in site.data.members %}
+- {{ member.name }}
+{% endfor %}
 
 1. Numbered
 2. List
