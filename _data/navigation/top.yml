@@ -1,8 +1,8 @@
 - title: Home
-  link: /hello-world/home.md
-
+  link: /hello-world/home.html
+  
 - title: About
-  link: /hello-world/about.md
+  link: /hello-world/about.html
 
 - title: Contact
-  link: /hello-world/contact.md
+  link: /hello-world/contact.html
